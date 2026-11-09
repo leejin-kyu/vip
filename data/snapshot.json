@@ -145,7 +145,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331791/cover/84473c0d-8c32-4e11-9ae3-191e546b193f/331791.png",
    "star": 4.6,
    "reviews": 40,
-   "students": 1161,
+   "students": 1162,
    "runtimeMin": 137,
    "level": "Beginner",
    "abilities": [
@@ -228,7 +228,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.7,
    "reviews": 34,
-   "students": 458,
+   "students": 459,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -287,8 +287,8 @@
    "desc": "You use ChatGPT, but\n\nhaven’t you found it difficult to explain why it produces answers like these?\n\n“I know terms like RAG, agents, and fine-tuning… but it’s difficult to explain them precisely.”\n\n“When I hear LLM-related terminology, I’m at a loss for words.”\n\n“Explanations of concepts in AI meetings are always vague.”\n\nThis course was created specifically for people like you.\n\nThis is a theory course designed to help you understand LLMs not as ‘tools,’ but as ‘structures.’\nRather than teaching you how to use ChatGPT or Gemini,\nit gives you a framework for explaining why they work the way they do.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
-   "reviews": 36,
-   "students": 230,
+   "reviews": 37,
+   "students": 233,
    "runtimeMin": 91,
    "level": "Beginner",
    "abilities": [
@@ -317,7 +317,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.8,
    "reviews": 20,
-   "students": 145,
+   "students": 146,
    "runtimeMin": 229,
    "level": "Beginner",
    "abilities": [
@@ -346,7 +346,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345216/cover/01m611787ps7y9p9rbezxc2m3m",
    "star": 0,
    "reviews": 0,
-   "students": 24,
+   "students": 25,
    "runtimeMin": 1155,
    "level": "Beginner",
    "abilities": [
@@ -391,12 +391,12 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 373,
-  "students": 5786,
+  "reviews": 374,
+  "students": 5793,
   "courseCount": 13
  },
  "youtube": {
-  "subs": 13900,
+  "subs": 14000,
   "views": {
    "58YFu8s2I8w": 326517,
    "IyHsxrCK_Zk": 317295,
@@ -409,6 +409,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "6670ac43270bd3ef83ae0cd754322c2f5a7bbe37",
- "updatedAt": "2026-11-09T07:17:52.262Z"
+ "hash": "3571bf611165e8b0259144bcf52d5ebb18797930",
+ "updatedAt": "2026-11-09T17:40:41.179Z"
 }
