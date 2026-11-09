@@ -17,8 +17,8 @@
    ],
    "isNew": false,
    "publishedAt": "2023-03-01T15:00:00.000Z",
-   "regular": 53.9,
-   "pay": 53.9,
+   "regular": 69300,
+   "pay": 69300,
    "isFree": false,
    "discount": null
   },
@@ -49,8 +49,8 @@
    ],
    "isNew": false,
    "publishedAt": "2023-05-29T15:00:00.000Z",
-   "regular": 77,
-   "pay": 77,
+   "regular": 99000,
+   "pay": 99000,
    "isFree": false,
    "discount": null
   },
@@ -187,8 +187,8 @@
    ],
    "isNew": false,
    "publishedAt": "2024-11-25T15:00:00.000Z",
-   "regular": 68.2,
-   "pay": 68.2,
+   "regular": 88000,
+   "pay": 88000,
    "isFree": false,
    "discount": null
   },
@@ -215,8 +215,8 @@
    ],
    "isNew": false,
    "publishedAt": "2025-08-03T11:30:00.000Z",
-   "regular": 51.7,
-   "pay": 51.7,
+   "regular": 66000,
+   "pay": 66000,
    "isFree": false,
    "discount": null
   },
@@ -245,8 +245,8 @@
    ],
    "isNew": false,
    "publishedAt": "2025-08-03T10:00:00.000Z",
-   "regular": 51.7,
-   "pay": 51.7,
+   "regular": 66000,
+   "pay": 66000,
    "isFree": false,
    "discount": null
   },
@@ -275,8 +275,8 @@
    ],
    "isNew": false,
    "publishedAt": "2025-10-31T15:00:00.000Z",
-   "regular": 51.7,
-   "pay": 51.7,
+   "regular": 66000,
+   "pay": 66000,
    "isFree": false,
    "discount": null
   },
@@ -304,8 +304,8 @@
    ],
    "isNew": false,
    "publishedAt": "2026-01-16T09:00:00.000Z",
-   "regular": 51.7,
-   "pay": 51.7,
+   "regular": 66000,
+   "pay": 66000,
    "isFree": false,
    "discount": null
   },
@@ -333,8 +333,8 @@
    ],
    "isNew": false,
    "publishedAt": "2026-08-01T09:00:05.000Z",
-   "regular": 77,
-   "pay": 77,
+   "regular": 99000,
+   "pay": 99000,
    "isFree": false,
    "discount": null
   },
@@ -365,8 +365,8 @@
    ],
    "isNew": true,
    "publishedAt": "2026-10-30T06:00:06.000Z",
-   "regular": 77,
-   "pay": 23.1,
+   "regular": 99000,
+   "pay": 29700,
    "isFree": false,
    "discount": {
     "rate": 70,
@@ -409,6 +409,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "544b63f6d488a8e1e5088559de5ebcc16af1626a",
- "updatedAt": "2026-11-09T07:16:30.174Z"
+ "hash": "6670ac43270bd3ef83ae0cd754322c2f5a7bbe37",
+ "updatedAt": "2026-11-09T07:17:52.262Z"
 }
