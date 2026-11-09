@@ -1,0 +1,105 @@
+{
+  "_comment": "VIP 페이지 구성 설정. 숫자(가격·할인·평점·수강생)는 scripts/build.mjs가 인프런·유튜브에서 1시간마다 자동으로 가져옵니다. 강의 순서·문구만 여기서 고치면 됩니다.",
+  "instructorId": 846696,
+  "inflearnUserUrl": "https://www.inflearn.com/users/846696/courses",
+  "youtubeChannel": "https://www.youtube.com/@HappyAI_0612",
+  "installmentMonths": 5,
+  "newCourseDays": 45,
+
+  "featured": {
+    "id": 343518,
+    "ribbon": "BEST",
+    "badgeTemplate": "🔥 유튜브 누적 {views} 회+ 화제의 Claude 시리즈 정식 강의",
+    "descHtml": "Claude에게 질문만 하지 말고, <b>실제 업무를 맡겨보세요.</b><br>엑셀·문서·회의록·보고서·PPT 등 매일 반복되는 업무를 자동화해 퇴근시간을 앞당깁니다. 코딩을 몰라도 쉽게 따라 할 수 있어요.",
+    "level": "입문",
+    "learn": [
+      "엑셀·회의록·보고서·PPT 등 10가지 이상 실무 자동화",
+      "Claude로 데이터 분석·처리 자동화 워크플로우 설계",
+      "탐색 → 계획 → 구현 → 검증으로 AI 자동화 시스템 만들기",
+      "n8n 연동 등 실무 시나리오에 AI 자동화 적용"
+    ],
+    "for": ["반복 문서 작업이 많은 직장인", "혼자 다 하는 1인 사업자·프리랜서", "코딩 몰라도 OK"],
+    "cta": "Claude 업무자동화 강의 보러가기 →",
+    "videos": [
+      { "id": "58YFu8s2I8w", "title": "2026 클로드(Claude) 올인원 무료 강의｜AI 업무자동화 20분 총정리" },
+      { "id": "IyHsxrCK_Zk", "title": "퇴근시간 2시간 당겨주는 클로드 신기능 10가지" },
+      { "id": "ZN37IV4sbQg", "title": "Claude 업무자동화 3시간 총정리 (무료 자료 제공)" }
+    ],
+    "seriesVideoIds": ["58YFu8s2I8w", "IyHsxrCK_Zk", "ZN37IV4sbQg", "ZiYF5_gbIv4", "o80arQOlZxk", "0Ru5-82IG4Q", "wLRDdersmE4", "3lfcxZI60wM", "HBLrAAlqdcE"]
+  },
+
+  "courseNotes": {
+    "345216": {
+      "tag": "이론 중심",
+      "sub": "238개 수업 · 이론 중심 AI 기초 과정 (주요 주제는 실습으로 확인)",
+      "hook": "파이썬·데이터 분석부터 머신러닝·텍스트마이닝·딥러닝·Transformer까지, AI 핵심 원리를 한 강의로 정리합니다."
+    }
+  },
+
+  "roadmap": {
+    "title": "LLM 입문부터 AI Agent까지",
+    "desc": "LLM의 기본 구조를 이해하고, RAG·파인튜닝을 거쳐 스스로 판단하는 에이전트까지 5단계로 완성합니다.",
+    "steps": [
+      { "id": 335515, "label": "LLM 기초·RAG·LangChain" },
+      { "id": 340427, "label": "LLM 핵심 이론" },
+      { "id": 338377, "label": "맞춤형 LLM: RAG 실습" },
+      { "id": 338231, "label": "LoRA·QLoRA 파인튜닝" },
+      { "id": 339421, "label": "LLM Agent 90분 완성" }
+    ]
+  },
+
+  "sections": [
+    { "key": "llm", "label": "🤖 LLM · 생성형 AI", "ids": [340427, 338377, 338231, 339421, 335515], "extra": ["udemy-langgraph"] },
+    { "key": "data", "label": "📊 데이터 분석 · 머신러닝 · 텍스트마이닝", "ids": [345216, 331019, 330219] }
+  ],
+
+  "extraCards": {
+    "udemy-langgraph": {
+      "platform": "Udemy",
+      "url": "https://www.udemy.com/course/langgraph-korean-remake/",
+      "title": "LangGraph로 만드는 실전 LLM AI 에이전트 [한국어 리메이크]",
+      "thumb": "https://img-c.udemycdn.com/course/480x270/7347035_17be.jpg",
+      "meta": ["★ 4.8", "(5)", "·", "5시간 5분"],
+      "cta": "Udemy에서 보기 →"
+    }
+  },
+
+  "freeExtra": [
+    {
+      "url": "https://www.happyaidata.kr/free-claude.html",
+      "title": "Claude 업무자동화 입문 무료 강의: 엑셀·보고서·PPT·AI 비서",
+      "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk?w=600",
+      "meta": ["10강", "·", "84분", "·", "실습자료 제공"],
+      "badge": "무료"
+    }
+  ],
+
+  "knownSlugs": {
+    "330219": "텍스톰-textom-실전-연습"
+  },
+
+  "biz": {
+    "orgs": ["KB국민은행", "삼성SDS", "KT", "현대위아", "코스콤", "서울디지털재단", "한성대학교", "서울과학기술대학교", "경기대학교", "단국대학교"],
+    "fields": ["LLM · 생성형 AI", "RAG · Private LLM", "AI Agent", "LangChain · LangGraph", "MCP · Claude Code", "LoRA · QLoRA 파인튜닝", "NLP · 텍스트마이닝", "AI 업무자동화"],
+    "desc": "사내 문서 기반 RAG 챗봇, 내부망 Private LLM, AI Agent 업무 프로세스 설계까지 교육과 구축을 함께 진행합니다.",
+    "moreUrl": "https://www.happyaidata.kr/education.html",
+    "moreLabel": "기업 교육 과정 보기 →"
+  },
+
+  "profile": {
+    "avatar": "https://cdn.inflearn.com/public/files/courses/331584/017bd786-873a-492d-8cb8-4520f1a1e7bd/%EB%8C%80%EC%A7%80%201.png",
+    "name": "AI공학박사 이진규",
+    "role": "AI소프트웨어학과 겸임교수 · 해피AI 대표",
+    "tagline": "퇴근시간 당겨주는 Claude 업무자동화부터 LLM·AI Agent까지"
+  },
+
+  "social": [
+    ["YouTube", "https://www.youtube.com/@HappyAI_0612"],
+    ["인프런", "https://www.inflearn.com/users/846696"],
+    ["홈페이지", "https://www.happyaidata.kr/"],
+    ["GitHub", "https://github.com/leejin-kyu"],
+    ["크몽 외주", "https://kmong.com/@%ED%95%B4%ED%94%BCAI"],
+    ["블로그", "https://blog.naver.com/happynlp0612"],
+    ["티스토리", "https://jinkyu0612.tistory.com/"]
+  ]
+}
