@@ -43,7 +43,8 @@ function fromListItem(it) {
     star: c.star, reviews: c.reviewCount, students: c.studentCount, runtimeMin: Math.round((c.runtimeSecond || 0) / 60),
     level: c.metadata?.levelCode || '', abilities: c.abilities || [], categories: c.metadata?.childCategories || [],
     isNew: !!c.isNew, publishedAt: c.publishedAtUTC || null,
-    regular: lp.regularPrice ?? it.krwRegularPrice ?? 0, pay: lp.payPrice ?? it.krwPaymentPrice ?? 0, isFree: !!lp.isFree,
+    // 해외(예: GitHub 서버)에서 접속하면 regularPrice/payPrice가 달러로 오므로 원화(krw) 값을 씁니다.
+    regular: it.krwRegularPrice ?? lp.regularPrice ?? 0, pay: it.krwPaymentPrice ?? lp.payPrice ?? 0, isFree: !!lp.isFree,
     discount: lp.isDiscount && lp.discountRate ? { rate: lp.discountRate, title: lp.discountTitle || '할인', endUTC: lp.discountEndedAtUTC || null } : null
   };
 }
@@ -57,7 +58,7 @@ function fromCoursePage(nd, slug) {
     star: info.review?.averageStar ?? 0, reviews: info.review?.count ?? 0, students: info.studentCount,
     runtimeMin: Math.round((info.unitSummary?.runtime || 0) / 60), level: info.levels?.find(l => l.isActive)?.code || '',
     abilities: [], categories: [info.category?.sub?.title].filter(Boolean), isNew: !!info.isNew, publishedAt: info.publishedAtUTC || null,
-    regular: pi.regularPrice ?? 0, pay: pi.payPrice ?? 0, isFree: (pi.regularPrice ?? 0) === 0,
+    regular: pi.krwRegularPrice ?? pi.regularPrice ?? 0, pay: pi.krwPaymentPrice ?? pi.payPrice ?? 0, isFree: (pi.krwRegularPrice ?? pi.regularPrice ?? 0) === 0,
     discount: rate ? { rate, title: d?.title || '할인', endUTC: d?.endedAtUTC || d?.endedAt || null } : null
   };
 }
@@ -68,6 +69,8 @@ async function fetchInflearn() {
   const nd = nextData(html);
   const list = findQuery(nd, /course\/user/)?.state?.data?.pages?.[0]?.data;
   for (const it of list?.items || []) { const c = fromListItem(it); out.courses[c.id] = c; out.order.push(c.id); }
+  // 안전장치: 유료 강의 가격이 1,000원 미만이면(통화 오류 등) 이번 결과를 버립니다.
+  if (Object.values(out.courses).some(c => !c.isFree && (c.regular < 1000 || c.pay < 1000))) throw new Error('price sanity check failed (non-KRW?)');
   const ins = findQuery(nd, /instructors\/\d+\/profile/)?.state?.data?.data;
   if (ins) out.instructor = { rating: Number(ins.reviewAverage), reviews: ins.reviewCount, students: ins.studentCount, courseCount: ins.courseCount };
   // 첫 페이지(12개)에 없는 강의는 강의 페이지에서 따로 읽습니다.
@@ -76,7 +79,7 @@ async function fetchInflearn() {
     if (out.courses[id]) continue;
     const slug = prev.courses?.[id]?.slug || cfg.knownSlugs?.[id];
     if (!slug) continue;
-    try { out.courses[id] = fromCoursePage(nextData(await getText('https://www.inflearn.com/course/' + encodeURIComponent(slug))), slug); }
+    try { const c = fromCoursePage(nextData(await getText('https://www.inflearn.com/course/' + encodeURIComponent(slug))), slug); if (!c.isFree && c.regular < 1000) throw new Error('non-KRW price'); out.courses[id] = c; }
     catch (e) { log('course page fail', id, e.message); }
   }
   return out;
