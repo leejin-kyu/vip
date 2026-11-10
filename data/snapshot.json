@@ -25,24 +25,24 @@
   "331019": {
    "id": 331019,
    "slug": "파이썬-빅데이터-텍스트마이닝-빅카인즈",
-   "title": "Big Data/Text Mining Analysis Methods (LDA, BERTtopic, Sentiment Analysis, CONCOR with ChatGPT)",
-   "desc": "This lecture covers text mining analysis techniques using Python and ChatGPT, big data analysis techniques, word frequency analysis, word cloud visualization, morphological analysis, and topic modeling. It also teaches how to apply text mining data analysis techniques when writing academic papers, along with basic applications for research papers.",
+   "title": "Practical Big Data and Text Mining Analysis for Writing Research Papers: LDA, BERTopic, Sentiment Analysis, and CONCOR Using ChatGPT",
+   "desc": "[November 2026 Update] Added the full versions of eight practical live lectures (about 15 hours)! Learn the fundamentals of text mining and big data research analysis in a single course—from data collection and preprocessing to TF-IDF, network analysis, LDA, BERTopic, sentiment analysis, and organizing and interpreting results tables. Even if you’re new to Python, you can follow along using the code provided in Colab.",
    "thumb": "https://cdn.inflearn.com/public/courses/331019/cover/f5bc112f-d732-4082-a16a-5a549a7f7c69/331019.png",
    "star": 4.4,
    "reviews": 19,
    "students": 174,
-   "runtimeMin": 339,
+   "runtimeMin": 1246,
    "level": "Basic",
    "abilities": [
-    "A Summary of Key Techniques for Text Mining Using Python",
-    "Word frequency analysis",
-    "Word Cloud Visualization",
-    "Morphological analysis",
-    "TF-IDF for determining importance in text",
-    "Text Topic Classification Using the LDA Technique",
-    "How to Interpret Data When Writing Big Data/Text Mining Papers",
-    "Explanation of the Core Theories of Text Mining",
-    "Sentiment analysis using the KNU Sentiment Dictionary (sentiment word extraction, sentiment document ratio)"
+    "Directly Collecting and Organizing Research Data from RISS and Big Kinds",
+    "Create Cleaned Data for Analysis Using Morphological Analysis, Stopword Processing, and a Custom Dictionary",
+    "Extracting Key Keywords Using TF·TF-IDF·N-gram·Word Cloud",
+    "Visualizing Keyword Relationships Through Network Analysis and CONCOR Clustering (UCINET)",
+    "Performing LDA Topic Modeling Using Perplexity, Coherence, and LDAvis",
+    "Expanding into AI-based analysis with BERTopic, Word2Vec, and Sentence-BERT",
+    "Sentiment Analysis Using the KNU Sentiment Lexicon and ChatGPT",
+    "Organize and interpret the analysis results in tables and figures formatted for the Methods and Results sections of a research paper.",
+    "(Updated November 2026) Full 8-Lesson Practical Live Course: A Step-by-Step Guide from Data Collection to Organizing Results"
    ],
    "categories": [
     "Data Analysis"
@@ -62,7 +62,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331163/cover/74cc657a-a8f9-4a78-8edb-0d5fcd4c4c75/331163.png",
    "star": 4.7,
    "reviews": 18,
-   "students": 717,
+   "students": 718,
    "runtimeMin": 52,
    "level": "Basic",
    "abilities": [
@@ -215,8 +215,8 @@
    ],
    "isNew": false,
    "publishedAt": "2025-08-03T11:30:00.000Z",
-   "regular": 66000,
-   "pay": 66000,
+   "regular": 44000,
+   "pay": 44000,
    "isFree": false,
    "discount": null
   },
@@ -228,7 +228,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.7,
    "reviews": 34,
-   "students": 459,
+   "students": 460,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -245,8 +245,8 @@
    ],
    "isNew": false,
    "publishedAt": "2025-08-03T10:00:00.000Z",
-   "regular": 66000,
-   "pay": 66000,
+   "regular": 44000,
+   "pay": 44000,
    "isFree": false,
    "discount": null
   },
@@ -258,7 +258,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.3,
    "reviews": 8,
-   "students": 135,
+   "students": 136,
    "runtimeMin": 86,
    "level": "Basic",
    "abilities": [
@@ -275,8 +275,8 @@
    ],
    "isNew": false,
    "publishedAt": "2025-10-31T15:00:00.000Z",
-   "regular": 66000,
-   "pay": 66000,
+   "regular": 44000,
+   "pay": 44000,
    "isFree": false,
    "discount": null
   },
@@ -287,7 +287,7 @@
    "desc": "You use ChatGPT, but\n\nhaven’t you found it difficult to explain why it produces answers like these?\n\n“I know terms like RAG, agents, and fine-tuning… but it’s difficult to explain them precisely.”\n\n“When I hear LLM-related terminology, I’m at a loss for words.”\n\n“Explanations of concepts in AI meetings are always vague.”\n\nThis course was created specifically for people like you.\n\nThis is a theory course designed to help you understand LLMs not as ‘tools,’ but as ‘structures.’\nRather than teaching you how to use ChatGPT or Gemini,\nit gives you a framework for explaining why they work the way they do.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
-   "reviews": 37,
+   "reviews": 38,
    "students": 233,
    "runtimeMin": 91,
    "level": "Beginner",
@@ -317,7 +317,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.8,
    "reviews": 20,
-   "students": 147,
+   "students": 148,
    "runtimeMin": 229,
    "level": "Beginner",
    "abilities": [
@@ -346,7 +346,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345216/cover/01m611787ps7y9p9rbezxc2m3m",
    "star": 0,
    "reviews": 0,
-   "students": 26,
+   "students": 28,
    "runtimeMin": 1155,
    "level": "Beginner",
    "abilities": [
@@ -391,12 +391,12 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 374,
-  "students": 5795,
+  "reviews": 375,
+  "students": 5801,
   "courseCount": 13
  },
  "youtube": {
-  "subs": 14000,
+  "subs": 14100,
   "views": {
    "58YFu8s2I8w": 326517,
    "IyHsxrCK_Zk": 317295,
@@ -409,6 +409,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "3327d918b602396d8431b883d3b28488ea950521",
- "updatedAt": "2026-11-10T01:37:23.890Z"
+ "hash": "ef593086857e45fab8aa8f69baa1bf9ddd0a7a00",
+ "updatedAt": "2026-11-10T09:58:09.748Z"
 }
