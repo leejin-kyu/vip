@@ -145,7 +145,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331791/cover/84473c0d-8c32-4e11-9ae3-191e546b193f/331791.png",
    "star": 4.6,
    "reviews": 40,
-   "students": 1162,
+   "students": 1163,
    "runtimeMin": 137,
    "level": "Beginner",
    "abilities": [
@@ -392,7 +392,7 @@
  "instructor": {
   "rating": 4.5,
   "reviews": 375,
-  "students": 5801,
+  "students": 5802,
   "courseCount": 13
  },
  "youtube": {
@@ -409,6 +409,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "ef593086857e45fab8aa8f69baa1bf9ddd0a7a00",
- "updatedAt": "2026-11-10T09:58:09.748Z"
+ "hash": "156c40ad9b40b1c71171edf32e50636c5b2d12bc",
+ "updatedAt": "2026-11-10T17:55:57.850Z"
 }
