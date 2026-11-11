@@ -62,7 +62,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331163/cover/74cc657a-a8f9-4a78-8edb-0d5fcd4c4c75/331163.png",
    "star": 4.7,
    "reviews": 18,
-   "students": 719,
+   "students": 721,
    "runtimeMin": 52,
    "level": "Basic",
    "abilities": [
@@ -145,7 +145,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331791/cover/84473c0d-8c32-4e11-9ae3-191e546b193f/331791.png",
    "star": 4.6,
    "reviews": 40,
-   "students": 1163,
+   "students": 1164,
    "runtimeMin": 137,
    "level": "Beginner",
    "abilities": [
@@ -287,7 +287,7 @@
    "desc": "You use ChatGPT, but\n\nhaven’t you found it difficult to explain why it produces answers like these?\n\n“I know terms like RAG, agents, and fine-tuning… but it’s difficult to explain them precisely.”\n\n“When I hear LLM-related terminology, I’m at a loss for words.”\n\n“Explanations of concepts in AI meetings are always vague.”\n\nThis course was created specifically for people like you.\n\nThis is a theory course designed to help you understand LLMs not as ‘tools,’ but as ‘structures.’\nRather than teaching you how to use ChatGPT or Gemini,\nit gives you a framework for explaining why they work the way they do.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
-   "reviews": 39,
+   "reviews": 40,
    "students": 235,
    "runtimeMin": 91,
    "level": "Beginner",
@@ -391,8 +391,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 376,
-  "students": 5812,
+  "reviews": 377,
+  "students": 5815,
   "courseCount": 13
  },
  "youtube": {
@@ -409,6 +409,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "36319999d4c8ad1759556954f964143d2bf98647",
- "updatedAt": "2026-11-11T15:21:05.493Z"
+ "hash": "4d1c456bea04d1196852bd183b2bed645daeb677",
+ "updatedAt": "2026-11-11T22:45:21.696Z"
 }
