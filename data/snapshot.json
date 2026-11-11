@@ -62,7 +62,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331163/cover/74cc657a-a8f9-4a78-8edb-0d5fcd4c4c75/331163.png",
    "star": 4.7,
    "reviews": 18,
-   "students": 718,
+   "students": 719,
    "runtimeMin": 52,
    "level": "Basic",
    "abilities": [
@@ -117,7 +117,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331584/cover/1aa0d8ee-cf68-4752-96b3-0638c1a88cfa/230630_ChatGPTwithPython인프런.png",
    "star": 4.5,
    "reviews": 62,
-   "students": 1440,
+   "students": 1441,
    "runtimeMin": 141,
    "level": "Beginner",
    "abilities": [
@@ -228,7 +228,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.7,
    "reviews": 34,
-   "students": 460,
+   "students": 463,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -258,7 +258,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.3,
    "reviews": 8,
-   "students": 136,
+   "students": 137,
    "runtimeMin": 86,
    "level": "Basic",
    "abilities": [
@@ -346,7 +346,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345216/cover/01m611787ps7y9p9rbezxc2m3m",
    "star": 0,
    "reviews": 0,
-   "students": 29,
+   "students": 30,
    "runtimeMin": 1155,
    "level": "Beginner",
    "abilities": [
@@ -392,11 +392,11 @@
  "instructor": {
   "rating": 4.5,
   "reviews": 376,
-  "students": 5805,
+  "students": 5812,
   "courseCount": 13
  },
  "youtube": {
-  "subs": 14200,
+  "subs": 14300,
   "views": {
    "58YFu8s2I8w": 326517,
    "IyHsxrCK_Zk": 317295,
@@ -409,6 +409,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "87cd95bbcb8ee3bb960db02b98821c4fc18e4ee0",
- "updatedAt": "2026-11-11T06:38:43.844Z"
+ "hash": "36319999d4c8ad1759556954f964143d2bf98647",
+ "updatedAt": "2026-11-11T15:21:05.493Z"
 }
