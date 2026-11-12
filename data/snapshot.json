@@ -223,20 +223,20 @@
   "338377": {
    "id": 338377,
    "slug": "처음-시작하는-분을-위한-rag-실전",
-   "title": "Building a Custom LLM: From Basic RAG Concepts for Beginners to Hands-On Multimodal and Agent Practice",
-   "desc": "From the fundamentals of RAG (Retrieval-Augmented Generation) to the latest multimodal and agent-based RAG!\n\nThis is a hands-on, practice-oriented course designed to be accessible even to those without a technical background.\n\nFrom paper reviews to practical code implementation, it is structured so that even beginners encountering RAG for the first time can follow along with ease.",
+   "title": "Building a Custom LLM: From RAG Fundamentals for Beginners to Hands-On Multimodal and Agent Projects",
+   "desc": "From the fundamentals of RAG (Retrieval-Augmented Generation) to the latest in multimodal and agent-based RAG!\n\nThis hands-on course is designed to be easy to understand, even for those without a technical background.\n\nFrom paper reviews to practical coding, it’s structured so that even beginners can follow along with ease.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.7,
    "reviews": 34,
-   "students": 465,
+   "students": 469,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
-    "Understanding the Latest RAG Architecture Theories and Papers",
-    "LangChain-based RAG practice (PDF QA, summarization, recommendations, database updates, etc.)",
+    "Understanding the latest theories and papers on RAG architectures",
+    "LangChain-Based RAG Practice (PDF QA, Summarization, Recommendations, Database Updates, etc.)",
     "How to Apply Various RAG Architectures (Naive, Agentic, Multimodal, etc.)",
-    "Techniques and Optimization Strategies for Applying RAG in Practice",
-    "Agent and Image-Based RAG Implementation Methods"
+    "Techniques for Applying RAG in Practice and Optimization Strategies",
+    "Agent and Image-Based RAG Implementation Method"
    ],
    "categories": [
     "AI Agent Development",
@@ -258,7 +258,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.3,
    "reviews": 8,
-   "students": 137,
+   "students": 138,
    "runtimeMin": 86,
    "level": "Basic",
    "abilities": [
@@ -283,8 +283,8 @@
   "340427": {
    "id": 340427,
    "slug": "llm-핵심-이론-구조로-이해하기-c",
-   "title": "Understanding Core LLM Theory Through Architecture - How ChatGPT, RAG, and Agents Work, All at Once -",
-   "desc": "You use ChatGPT, but\n\nhaven’t you found it difficult to explain why it produces answers like these?\n\n“I know terms like RAG, agents, and fine-tuning… but it’s difficult to explain them precisely.”\n\n“When I hear LLM-related terminology, I’m at a loss for words.”\n\n“Explanations of concepts in AI meetings are always vague.”\n\nThis course was created specifically for people like you.\n\nThis is a theory course designed to help you understand LLMs not as ‘tools,’ but as ‘structures.’\nRather than teaching you how to use ChatGPT or Gemini,\nit gives you a framework for explaining why they work the way they do.",
+   "title": "Understanding Core LLM Theory Through Structure — How ChatGPT, RAG, and Agents Work",
+   "desc": "You use ChatGPT, but…\n\nHave you ever found it difficult to explain why it gives the answers it does?\n\n“I know terms like RAG, agents, and fine-tuning, but I can’t explain them precisely.”\n\n“When I hear LLM-related terms, I don’t know what to say.”\n\n“I’m always vague when explaining concepts in AI meetings.”\n\nThis course was created for people just like you.\n\nIt’s a theory course designed to help you understand LLMs as a “structure,” not just a “tool.”\nRather than teaching you how to use ChatGPT or Gemini, it gives you a framework for explaining why they work the way they do.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
    "reviews": 40,
@@ -292,10 +292,10 @@
    "runtimeMin": 91,
    "level": "Beginner",
    "abilities": [
-    "Structural thinking to understand the process by which an LLM generates answers",
-    "Criteria for not confusing key concepts such as prompts, RAG, and agents",
-    "An understanding that allows you to accurately follow discussions related to AI",
-    "Realistic judgment informed by the limitations and parameters of LLMs"
+    "A Structural Approach to Understanding How LLMs Generate Answers",
+    "A framework for distinguishing key concepts like prompts, RAG, and agents",
+    "The ability to accurately follow discussions related to AI",
+    "Practical judgment that takes into account the limitations and parameters of LLMs"
    ],
    "categories": [
     "Natural Language Processing",
@@ -346,7 +346,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345216/cover/01m611787ps7y9p9rbezxc2m3m",
    "star": 0,
    "reviews": 0,
-   "students": 32,
+   "students": 33,
    "runtimeMin": 1155,
    "level": "Beginner",
    "abilities": [
@@ -392,11 +392,11 @@
  "instructor": {
   "rating": 4.5,
   "reviews": 377,
-  "students": 5820,
+  "students": 5826,
   "courseCount": 13
  },
  "youtube": {
-  "subs": 14400,
+  "subs": 14500,
   "views": {
    "58YFu8s2I8w": 326517,
    "IyHsxrCK_Zk": 317295,
@@ -409,6 +409,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "7910270a5a486c9ba8959aa710073c977dceedb6",
- "updatedAt": "2026-11-12T03:52:28.546Z"
+ "hash": "7f39ca46f78b7aa0915d8fc2fa7009b2d12415f6",
+ "updatedAt": "2026-11-12T12:52:09.869Z"
 }
