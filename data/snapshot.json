@@ -346,7 +346,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345216/cover/01m611787ps7y9p9rbezxc2m3m",
    "star": 0,
    "reviews": 0,
-   "students": 33,
+   "students": 36,
    "runtimeMin": 1155,
    "level": "Beginner",
    "abilities": [
@@ -366,13 +366,9 @@
    "isNew": true,
    "publishedAt": "2026-10-30T06:00:06.000Z",
    "regular": 99000,
-   "pay": 29700,
+   "pay": 99000,
    "isFree": false,
-   "discount": {
-    "rate": 70,
-    "title": "얼리버드 할인",
-    "endUTC": "2026-11-12T14:59:59.001Z"
-   }
+   "discount": null
   }
  },
  "order": [
@@ -391,8 +387,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 377,
-  "students": 5826,
+  "reviews": 378,
+  "students": 5829,
   "courseCount": 13
  },
  "youtube": {
@@ -409,6 +405,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "7f39ca46f78b7aa0915d8fc2fa7009b2d12415f6",
- "updatedAt": "2026-11-12T12:52:09.869Z"
+ "hash": "435930f0e359c0623c6e140991ab4b39148fc256",
+ "updatedAt": "2026-11-12T20:54:10.768Z"
 }
