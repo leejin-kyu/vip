@@ -199,7 +199,7 @@
    "desc": "“Take the first step toward creating your own customized LLM with lightweight LoRA-based fine-tuning!”\n\nThis course is an introductory hands-on course designed so that even those who are new to LLMs can follow along easily.  \nWith complex theory kept to a minimum, it guides you step by step through the entire process: loading a model → applying data → training → comparing results.\n\nIn a short amount of time, you’ll directly experience the workflow of modern lightweight fine-tuning techniques such as LoRA and QLoRA,  \nand gain an intuitive understanding of “how LLM fine-tuning actually works.”\n\nEven without extensive resources, experience the sense of accomplishment that comes from creating an LLM specialized for your own domain!",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338231/cover/01k1nv9m1ebza77ydcptb9yv6f",
    "star": 4.5,
-   "reviews": 71,
+   "reviews": 72,
    "students": 499,
    "runtimeMin": 70,
    "level": "Beginner",
@@ -227,8 +227,8 @@
    "desc": "From the fundamentals of RAG (Retrieval-Augmented Generation) to the latest in multimodal and agent-based RAG!\n\nThis hands-on course is designed to be easy to understand, even for those without a technical background.\n\nFrom paper reviews to practical coding, it’s structured so that even beginners can follow along with ease.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.7,
-   "reviews": 34,
-   "students": 469,
+   "reviews": 35,
+   "students": 470,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -315,10 +315,10 @@
    "title": "Claude Work Automation That Gets You Off Work Earlier: From Excel, Reports, and PPTs to an AI Assistant",
    "desc": "Claude Work Automation That Gets You Off Work Earlier!\n\nDon’t just ask Claude questions—put it to work on real tasks.\nLearn how to automate repetitive daily tasks such as Excel spreadsheets, documents, meeting minutes, reports, and PPTs, so you can leave work earlier. No coding knowledge is required; this is a practical, project-based course that’s easy to follow and can be applied directly to your own work.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
-   "star": 4.8,
-   "reviews": 20,
-   "students": 149,
-   "runtimeMin": 229,
+   "star": 4.7,
+   "reviews": 21,
+   "students": 150,
+   "runtimeMin": 285,
    "level": "Beginner",
    "abilities": [
     "Designing Advanced Data Analysis and Processing Automation Workflows Using Claude",
@@ -333,8 +333,8 @@
    ],
    "isNew": false,
    "publishedAt": "2026-08-01T09:00:05.000Z",
-   "regular": 99000,
-   "pay": 99000,
+   "regular": 121000,
+   "pay": 121000,
    "isFree": false,
    "discount": null
   },
@@ -347,7 +347,7 @@
    "star": 0,
    "reviews": 0,
    "students": 36,
-   "runtimeMin": 1155,
+   "runtimeMin": 1150,
    "level": "Beginner",
    "abilities": [
     "Data analysis with Python: You can use Pandas to load and organize data, and extract the information needed for analysis.",
@@ -387,8 +387,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 378,
-  "students": 5830,
+  "reviews": 381,
+  "students": 5832,
   "courseCount": 13
  },
  "youtube": {
@@ -405,6 +405,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "4527e7c11364c6e546758890570d8613384b6855",
- "updatedAt": "2026-11-13T01:54:11.904Z"
+ "hash": "3c4046b0526812950184ddd51155c9f260ccc041",
+ "updatedAt": "2026-11-13T09:39:50.925Z"
 }
