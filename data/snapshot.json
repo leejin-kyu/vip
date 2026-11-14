@@ -226,8 +226,8 @@
    "title": "Building a Custom LLM: From RAG Fundamentals for Beginners to Hands-On Multimodal and Agent Projects",
    "desc": "From the fundamentals of RAG (Retrieval-Augmented Generation) to the latest in multimodal and agent-based RAG!\n\nThis hands-on course is designed to be easy to understand, even for those without a technical background.\n\nFrom paper reviews to practical coding, it’s structured so that even beginners can follow along with ease.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
-   "star": 4.7,
-   "reviews": 35,
+   "star": 4.8,
+   "reviews": 36,
    "students": 470,
    "runtimeMin": 111,
    "level": "Beginner",
@@ -257,7 +257,7 @@
    "desc": "The era when AI simply answered questions is over.  \nNow is the age of LLM Agents that make decisions and take action on their own.  \nThis beginner-friendly course lets you learn the core principles and structure of agents by implementing them firsthand in just 90 minutes of hands-on practice.  \nWith complex theory kept to a minimum and a code-focused approach, you’ll directly experience how AI makes decisions and uses tools.  \nGo beyond prompt engineering and take your first step toward AI automation with us.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.3,
-   "reviews": 8,
+   "reviews": 9,
    "students": 139,
    "runtimeMin": 86,
    "level": "Basic",
@@ -387,12 +387,12 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 380,
+  "reviews": 382,
   "students": 5836,
   "courseCount": 13
  },
  "youtube": {
-  "subs": 14700,
+  "subs": 14800,
   "views": {
    "58YFu8s2I8w": 326517,
    "IyHsxrCK_Zk": 317295,
@@ -405,6 +405,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "09c134fe70b18b0082e366e41288473e119e6773",
- "updatedAt": "2026-11-14T06:37:56.363Z"
+ "hash": "5d61dc029684b8213f09089506458f765dedac4d",
+ "updatedAt": "2026-11-14T14:14:47.938Z"
 }
