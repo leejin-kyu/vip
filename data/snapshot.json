@@ -18,9 +18,13 @@
    "isNew": false,
    "publishedAt": "2023-03-01T15:00:00.000Z",
    "regular": 69300,
-   "pay": 69300,
+   "pay": 51970,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 24,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "331019": {
    "id": 331019,
@@ -50,9 +54,13 @@
    "isNew": false,
    "publishedAt": "2023-05-29T15:00:00.000Z",
    "regular": 99000,
-   "pay": 99000,
+   "pay": 74250,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 24.285714285714285,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "331163": {
    "id": 331163,
@@ -188,9 +196,13 @@
    "isNew": false,
    "publishedAt": "2024-11-25T15:00:00.000Z",
    "regular": 88000,
-   "pay": 88000,
+   "pay": 66000,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 24.193548387096772,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "338231": {
    "id": 338231,
@@ -216,9 +228,13 @@
    "isNew": false,
    "publishedAt": "2025-08-03T11:30:00.000Z",
    "regular": 44000,
-   "pay": 44000,
+   "pay": 33000,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 22.58064516129032,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "338377": {
    "id": 338377,
@@ -246,9 +262,13 @@
    "isNew": false,
    "publishedAt": "2025-08-03T10:00:00.000Z",
    "regular": 44000,
-   "pay": 44000,
+   "pay": 33000,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 22.58064516129032,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "339421": {
    "id": 339421,
@@ -276,9 +296,13 @@
    "isNew": false,
    "publishedAt": "2025-10-31T15:00:00.000Z",
    "regular": 44000,
-   "pay": 44000,
+   "pay": 33000,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 22.58064516129032,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "340427": {
    "id": 340427,
@@ -305,9 +329,13 @@
    "isNew": false,
    "publishedAt": "2026-01-16T09:00:00.000Z",
    "regular": 66000,
-   "pay": 66000,
+   "pay": 49500,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 23.404255319148934,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "343518": {
    "id": 343518,
@@ -334,9 +362,13 @@
    "isNew": false,
    "publishedAt": "2026-08-01T09:00:05.000Z",
    "regular": 121000,
-   "pay": 121000,
+   "pay": 90750,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 24.705882352941178,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   },
   "345216": {
    "id": 345216,
@@ -366,9 +398,13 @@
    "isNew": true,
    "publishedAt": "2026-10-30T06:00:06.000Z",
    "regular": 88000,
-   "pay": 88000,
+   "pay": 66000,
    "isFree": false,
-   "discount": null
+   "discount": {
+    "rate": 24.193548387096772,
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
+    "endUTC": "2026-11-20T14:59:59.000Z"
+   }
   }
  },
  "order": [
@@ -392,7 +428,7 @@
   "courseCount": 13
  },
  "youtube": {
-  "subs": 14800,
+  "subs": 14900,
   "views": {
    "58YFu8s2I8w": 326517,
    "IyHsxrCK_Zk": 317295,
@@ -405,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "471803f11ffccce8dc50c99a3238e89acd8847f7",
- "updatedAt": "2026-11-15T11:07:47.013Z"
+ "hash": "a271368d258e54f566ecfa88f5c78ce1bf0afdb9",
+ "updatedAt": "2026-11-15T17:47:43.181Z"
 }
