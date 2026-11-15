@@ -316,7 +316,7 @@
    "desc": "Claude Work Automation That Gets You Off Work Earlier!\n\nDon’t just ask Claude questions—put it to work on real tasks.\nLearn how to automate repetitive daily tasks such as Excel spreadsheets, documents, meeting minutes, reports, and PPTs, so you can leave work earlier. No coding knowledge is required; this is a practical, project-based course that’s easy to follow and can be applied directly to your own work.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.7,
-   "reviews": 21,
+   "reviews": 22,
    "students": 151,
    "runtimeMin": 285,
    "level": "Beginner",
@@ -387,7 +387,7 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 382,
+  "reviews": 383,
   "students": 5836,
   "courseCount": 13
  },
@@ -405,6 +405,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "5d61dc029684b8213f09089506458f765dedac4d",
- "updatedAt": "2026-11-14T14:14:47.938Z"
+ "hash": "5c24ca02ecb53ddd836fd824c050a5528e3db8ad",
+ "updatedAt": "2026-11-15T02:45:46.727Z"
 }
