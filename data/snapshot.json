@@ -317,7 +317,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.7,
    "reviews": 22,
-   "students": 151,
+   "students": 152,
    "runtimeMin": 285,
    "level": "Beginner",
    "abilities": [
@@ -365,8 +365,8 @@
    ],
    "isNew": true,
    "publishedAt": "2026-10-30T06:00:06.000Z",
-   "regular": 99000,
-   "pay": 99000,
+   "regular": 88000,
+   "pay": 88000,
    "isFree": false,
    "discount": null
   }
@@ -388,7 +388,7 @@
  "instructor": {
   "rating": 4.5,
   "reviews": 383,
-  "students": 5836,
+  "students": 5837,
   "courseCount": 13
  },
  "youtube": {
@@ -405,6 +405,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "5c24ca02ecb53ddd836fd824c050a5528e3db8ad",
- "updatedAt": "2026-11-15T02:45:46.727Z"
+ "hash": "471803f11ffccce8dc50c99a3238e89acd8847f7",
+ "updatedAt": "2026-11-15T11:07:47.013Z"
 }
