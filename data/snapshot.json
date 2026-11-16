@@ -125,7 +125,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331584/cover/1aa0d8ee-cf68-4752-96b3-0638c1a88cfa/230630_ChatGPTwithPython인프런.png",
    "star": 4.5,
    "reviews": 62,
-   "students": 1442,
+   "students": 1443,
    "runtimeMin": 141,
    "level": "Beginner",
    "abilities": [
@@ -212,7 +212,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338231/cover/01k1nv9m1ebza77ydcptb9yv6f",
    "star": 4.5,
    "reviews": 72,
-   "students": 499,
+   "students": 500,
    "runtimeMin": 70,
    "level": "Beginner",
    "abilities": [
@@ -244,7 +244,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.8,
    "reviews": 36,
-   "students": 470,
+   "students": 472,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -276,9 +276,9 @@
    "title": "Completed in 90 Minutes: From LLM Agent Basics to Real-World Practice – Learn AI Agents Through Hands-On Exercises",
    "desc": "The era when AI simply answered questions is over.  \nNow is the age of LLM Agents that make decisions and take action on their own.  \nThis beginner-friendly course lets you learn the core principles and structure of agents by implementing them firsthand in just 90 minutes of hands-on practice.  \nWith complex theory kept to a minimum and a code-focused approach, you’ll directly experience how AI makes decisions and uses tools.  \nGo beyond prompt engineering and take your first step toward AI automation with us.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
-   "star": 4.3,
-   "reviews": 9,
-   "students": 139,
+   "star": 4.4,
+   "reviews": 10,
+   "students": 142,
    "runtimeMin": 86,
    "level": "Basic",
    "abilities": [
@@ -312,7 +312,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
    "reviews": 40,
-   "students": 236,
+   "students": 240,
    "runtimeMin": 91,
    "level": "Beginner",
    "abilities": [
@@ -345,7 +345,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.7,
    "reviews": 22,
-   "students": 157,
+   "students": 159,
    "runtimeMin": 285,
    "level": "Beginner",
    "abilities": [
@@ -423,8 +423,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 383,
-  "students": 5843,
+  "reviews": 384,
+  "students": 5856,
   "courseCount": 13
  },
  "youtube": {
@@ -441,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "eaa03cde54748c866f98d15a3b7237279924210f",
- "updatedAt": "2026-11-16T02:49:25.319Z"
+ "hash": "e127d2669b42f6fc956dee7172a9e7a9e76ce5c8",
+ "updatedAt": "2026-11-16T11:36:56.876Z"
 }
