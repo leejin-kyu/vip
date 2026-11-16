@@ -153,7 +153,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331791/cover/84473c0d-8c32-4e11-9ae3-191e546b193f/331791.png",
    "star": 4.6,
    "reviews": 40,
-   "students": 1164,
+   "students": 1165,
    "runtimeMin": 137,
    "level": "Beginner",
    "abilities": [
@@ -276,8 +276,8 @@
    "title": "Completed in 90 Minutes: From LLM Agent Basics to Real-World Practice – Learn AI Agents Through Hands-On Exercises",
    "desc": "The era when AI simply answered questions is over.  \nNow is the age of LLM Agents that make decisions and take action on their own.  \nThis beginner-friendly course lets you learn the core principles and structure of agents by implementing them firsthand in just 90 minutes of hands-on practice.  \nWith complex theory kept to a minimum and a code-focused approach, you’ll directly experience how AI makes decisions and uses tools.  \nGo beyond prompt engineering and take your first step toward AI automation with us.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
-   "star": 4.4,
-   "reviews": 10,
+   "star": 4.5,
+   "reviews": 11,
    "students": 142,
    "runtimeMin": 86,
    "level": "Basic",
@@ -423,8 +423,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 384,
-  "students": 5856,
+  "reviews": 385,
+  "students": 5857,
   "courseCount": 13
  },
  "youtube": {
@@ -441,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "e127d2669b42f6fc956dee7172a9e7a9e76ce5c8",
- "updatedAt": "2026-11-16T11:36:56.876Z"
+ "hash": "86ff37fe417dd79c1c29e837bead8d4f1dcc3187",
+ "updatedAt": "2026-11-16T22:15:51.544Z"
 }
