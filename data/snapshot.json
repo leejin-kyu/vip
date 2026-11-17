@@ -34,7 +34,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331019/cover/f5bc112f-d732-4082-a16a-5a549a7f7c69/331019.png",
    "star": 4.4,
    "reviews": 19,
-   "students": 174,
+   "students": 175,
    "runtimeMin": 1246,
    "level": "Basic",
    "abilities": [
@@ -125,7 +125,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331584/cover/1aa0d8ee-cf68-4752-96b3-0638c1a88cfa/230630_ChatGPTwithPython인프런.png",
    "star": 4.5,
    "reviews": 62,
-   "students": 1443,
+   "students": 1444,
    "runtimeMin": 141,
    "level": "Beginner",
    "abilities": [
@@ -211,8 +211,8 @@
    "desc": "“Take the first step toward creating your own customized LLM with lightweight LoRA-based fine-tuning!”\n\nThis course is an introductory hands-on course designed so that even those who are new to LLMs can follow along easily.  \nWith complex theory kept to a minimum, it guides you step by step through the entire process: loading a model → applying data → training → comparing results.\n\nIn a short amount of time, you’ll directly experience the workflow of modern lightweight fine-tuning techniques such as LoRA and QLoRA,  \nand gain an intuitive understanding of “how LLM fine-tuning actually works.”\n\nEven without extensive resources, experience the sense of accomplishment that comes from creating an LLM specialized for your own domain!",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338231/cover/01k1nv9m1ebza77ydcptb9yv6f",
    "star": 4.5,
-   "reviews": 72,
-   "students": 500,
+   "reviews": 73,
+   "students": 502,
    "runtimeMin": 70,
    "level": "Beginner",
    "abilities": [
@@ -244,7 +244,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.8,
    "reviews": 36,
-   "students": 472,
+   "students": 473,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -312,7 +312,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
    "reviews": 40,
-   "students": 240,
+   "students": 241,
    "runtimeMin": 91,
    "level": "Beginner",
    "abilities": [
@@ -345,7 +345,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.7,
    "reviews": 22,
-   "students": 159,
+   "students": 161,
    "runtimeMin": 285,
    "level": "Beginner",
    "abilities": [
@@ -423,12 +423,12 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 385,
-  "students": 5857,
+  "reviews": 386,
+  "students": 5865,
   "courseCount": 13
  },
  "youtube": {
-  "subs": 14900,
+  "subs": 15000,
   "views": {
    "58YFu8s2I8w": 326517,
    "IyHsxrCK_Zk": 317295,
@@ -441,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "86ff37fe417dd79c1c29e837bead8d4f1dcc3187",
- "updatedAt": "2026-11-16T22:15:51.544Z"
+ "hash": "ee54d2d31a64804dd9d98a8a03d31f28d0ee4fa5",
+ "updatedAt": "2026-11-17T04:37:41.615Z"
 }
