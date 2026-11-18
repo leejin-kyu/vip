@@ -311,7 +311,7 @@
    "desc": "You use ChatGPT, but…\n\nHave you ever found it difficult to explain why it gives the answers it does?\n\n“I know terms like RAG, agents, and fine-tuning, but I can’t explain them precisely.”\n\n“When I hear LLM-related terms, I don’t know what to say.”\n\n“I’m always vague when explaining concepts in AI meetings.”\n\nThis course was created for people just like you.\n\nIt’s a theory course designed to help you understand LLMs as a “structure,” not just a “tool.”\nRather than teaching you how to use ChatGPT or Gemini, it gives you a framework for explaining why they work the way they do.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
-   "reviews": 43,
+   "reviews": 44,
    "students": 247,
    "runtimeMin": 91,
    "level": "Beginner",
@@ -423,7 +423,7 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 393,
+  "reviews": 394,
   "students": 5892,
   "courseCount": 13
  },
@@ -441,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "961bc932f803f55997ff218dc77d275ecdcf1f4b",
- "updatedAt": "2026-11-18T14:10:44.994Z"
+ "hash": "09ecf0729bb03ef114d3a9b599844acc90fbcaf2",
+ "updatedAt": "2026-11-18T22:04:02.469Z"
 }
