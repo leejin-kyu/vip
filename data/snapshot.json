@@ -125,7 +125,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331584/cover/1aa0d8ee-cf68-4752-96b3-0638c1a88cfa/230630_ChatGPTwithPython인프런.png",
    "star": 4.5,
    "reviews": 62,
-   "students": 1445,
+   "students": 1446,
    "runtimeMin": 141,
    "level": "Beginner",
    "abilities": [
@@ -212,7 +212,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338231/cover/01k1nv9m1ebza77ydcptb9yv6f",
    "star": 4.5,
    "reviews": 73,
-   "students": 503,
+   "students": 507,
    "runtimeMin": 70,
    "level": "Beginner",
    "abilities": [
@@ -244,7 +244,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.8,
    "reviews": 39,
-   "students": 478,
+   "students": 480,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -277,7 +277,7 @@
    "desc": "The era when AI simply answered questions is over.  \nNow is the age of LLM Agents that make decisions and take action on their own.  \nThis beginner-friendly course lets you learn the core principles and structure of agents by implementing them firsthand in just 90 minutes of hands-on practice.  \nWith complex theory kept to a minimum and a code-focused approach, you’ll directly experience how AI makes decisions and uses tools.  \nGo beyond prompt engineering and take your first step toward AI automation with us.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.5,
-   "reviews": 12,
+   "reviews": 13,
    "students": 150,
    "runtimeMin": 86,
    "level": "Basic",
@@ -423,8 +423,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 394,
-  "students": 5892,
+  "reviews": 395,
+  "students": 5899,
   "courseCount": 13
  },
  "youtube": {
@@ -441,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "09ecf0729bb03ef114d3a9b599844acc90fbcaf2",
- "updatedAt": "2026-11-18T22:04:02.469Z"
+ "hash": "12d87f625e5dde2a13a9e82cb7b82d53bb7fae73",
+ "updatedAt": "2026-11-19T03:37:46.523Z"
 }
