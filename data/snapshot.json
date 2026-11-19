@@ -125,7 +125,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331584/cover/1aa0d8ee-cf68-4752-96b3-0638c1a88cfa/230630_ChatGPTwithPython인프런.png",
    "star": 4.5,
    "reviews": 62,
-   "students": 1446,
+   "students": 1447,
    "runtimeMin": 141,
    "level": "Beginner",
    "abilities": [
@@ -243,8 +243,8 @@
    "desc": "From the fundamentals of RAG (Retrieval-Augmented Generation) to the latest in multimodal and agent-based RAG!\n\nThis hands-on course is designed to be easy to understand, even for those without a technical background.\n\nFrom paper reviews to practical coding, it’s structured so that even beginners can follow along with ease.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.8,
-   "reviews": 39,
-   "students": 480,
+   "reviews": 40,
+   "students": 482,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -278,7 +278,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.5,
    "reviews": 13,
-   "students": 150,
+   "students": 152,
    "runtimeMin": 86,
    "level": "Basic",
    "abilities": [
@@ -345,7 +345,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.7,
    "reviews": 22,
-   "students": 166,
+   "students": 169,
    "runtimeMin": 285,
    "level": "Beginner",
    "abilities": [
@@ -378,7 +378,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345216/cover/01m611787ps7y9p9rbezxc2m3m",
    "star": 0,
    "reviews": 0,
-   "students": 36,
+   "students": 37,
    "runtimeMin": 1150,
    "level": "Beginner",
    "abilities": [
@@ -423,8 +423,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 395,
-  "students": 5899,
+  "reviews": 396,
+  "students": 5908,
   "courseCount": 13
  },
  "youtube": {
@@ -441,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "12d87f625e5dde2a13a9e82cb7b82d53bb7fae73",
- "updatedAt": "2026-11-19T03:37:46.523Z"
+ "hash": "04bff62921681ec138c470edaf926f9967d222e6",
+ "updatedAt": "2026-11-19T13:24:05.210Z"
 }
