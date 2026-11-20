@@ -22,8 +22,8 @@
    "isFree": false,
    "discount": {
     "rate": 24,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "331019": {
@@ -58,8 +58,8 @@
    "isFree": false,
    "discount": {
     "rate": 24.285714285714285,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "331163": {
@@ -200,8 +200,8 @@
    "isFree": false,
    "discount": {
     "rate": 24.193548387096772,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "338231": {
@@ -232,8 +232,8 @@
    "isFree": false,
    "discount": {
     "rate": 22.58064516129032,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "338377": {
@@ -243,7 +243,7 @@
    "desc": "From the fundamentals of RAG (Retrieval-Augmented Generation) to the latest in multimodal and agent-based RAG!\n\nThis hands-on course is designed to be easy to understand, even for those without a technical background.\n\nFrom paper reviews to practical coding, it’s structured so that even beginners can follow along with ease.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.8,
-   "reviews": 41,
+   "reviews": 43,
    "students": 484,
    "runtimeMin": 111,
    "level": "Beginner",
@@ -266,8 +266,8 @@
    "isFree": false,
    "discount": {
     "rate": 22.58064516129032,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "339421": {
@@ -277,7 +277,7 @@
    "desc": "The era when AI simply answered questions is over.  \nNow is the age of LLM Agents that make decisions and take action on their own.  \nThis beginner-friendly course lets you learn the core principles and structure of agents by implementing them firsthand in just 90 minutes of hands-on practice.  \nWith complex theory kept to a minimum and a code-focused approach, you’ll directly experience how AI makes decisions and uses tools.  \nGo beyond prompt engineering and take your first step toward AI automation with us.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.6,
-   "reviews": 15,
+   "reviews": 16,
    "students": 154,
    "runtimeMin": 86,
    "level": "Basic",
@@ -300,8 +300,8 @@
    "isFree": false,
    "discount": {
     "rate": 22.58064516129032,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "340427": {
@@ -333,8 +333,8 @@
    "isFree": false,
    "discount": {
     "rate": 23.404255319148934,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "343518": {
@@ -366,8 +366,8 @@
    "isFree": false,
    "discount": {
     "rate": 24.705882352941178,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   },
   "345216": {
@@ -402,8 +402,8 @@
    "isFree": false,
    "discount": {
     "rate": 22.58064516129032,
-    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 실행",
-    "endUTC": "2026-11-20T14:59:59.000Z"
+    "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
+    "endUTC": "2026-11-23T14:59:59.000Z"
    }
   }
  },
@@ -423,7 +423,7 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 401,
+  "reviews": 404,
   "students": 5922,
   "courseCount": 13
  },
@@ -441,6 +441,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "fca59b3816503ce1006eb5a907939cbea0fade06",
- "updatedAt": "2026-11-20T13:04:10.583Z"
+ "hash": "2e6148eb19abcc6b46d8e948755be13fd335ba2d",
+ "updatedAt": "2026-11-20T21:14:17.346Z"
 }
