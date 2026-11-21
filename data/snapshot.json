@@ -201,7 +201,7 @@
    "desc": "“Take the first step toward creating your own customized LLM with lightweight LoRA-based fine-tuning!”\n\nThis course is an introductory hands-on course designed so that even those who are new to LLMs can follow along easily.  \nWith complex theory kept to a minimum, it guides you step by step through the entire process: loading a model → applying data → training → comparing results.\n\nIn a short amount of time, you’ll directly experience the workflow of modern lightweight fine-tuning techniques such as LoRA and QLoRA,  \nand gain an intuitive understanding of “how LLM fine-tuning actually works.”\n\nEven without extensive resources, experience the sense of accomplishment that comes from creating an LLM specialized for your own domain!",
    "thumb": "https://cdn.inflearn.com/public/files/courses/338231/cover/01k1nv9m1ebza77ydcptb9yv6f",
    "star": 4.5,
-   "reviews": 73,
+   "reviews": 74,
    "students": 508,
    "runtimeMin": 70,
    "level": "Beginner",
@@ -404,7 +404,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m7ymez3tx7x53v50ss1xbhf5",
    "star": 0,
    "reviews": 0,
-   "students": 2,
+   "students": 6,
    "runtimeMin": 569,
    "level": "Basic",
    "abilities": [
@@ -447,8 +447,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 406,
-  "students": 5926,
+  "reviews": 407,
+  "students": 5930,
   "courseCount": 14
  },
  "youtube": {
@@ -465,6 +465,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "a638678b819e403450d9d20749c62e91aa655a14",
- "updatedAt": "2026-11-21T11:17:23.007Z"
+ "hash": "4f8c0ae9a010283dd81451a3e6ed3e3643d01be1",
+ "updatedAt": "2026-11-21T19:24:12.787Z"
 }
