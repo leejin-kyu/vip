@@ -37,17 +37,7 @@
    "students": 176,
    "runtimeMin": 1246,
    "level": "Basic",
-   "abilities": [
-    "Directly Collecting and Organizing Research Data from RISS and Big Kinds",
-    "Create Cleaned Data for Analysis Using Morphological Analysis, Stopword Processing, and a Custom Dictionary",
-    "Extracting Key Keywords Using TF·TF-IDF·N-gram·Word Cloud",
-    "Visualizing Keyword Relationships Through Network Analysis and CONCOR Clustering (UCINET)",
-    "Performing LDA Topic Modeling Using Perplexity, Coherence, and LDAvis",
-    "Expanding into AI-based analysis with BERTopic, Word2Vec, and Sentence-BERT",
-    "Sentiment Analysis Using the KNU Sentiment Lexicon and ChatGPT",
-    "Organize and interpret the analysis results as tables and figures that can be used in research.",
-    "(Updated November 2026) Full 8-Lesson Practical Live Course: A Step-by-Step Guide from Data Collection to Organizing Results"
-   ],
+   "abilities": [],
    "categories": [
     "Data Analysis"
    ],
@@ -57,7 +47,7 @@
    "pay": 74250,
    "isFree": false,
    "discount": {
-    "rate": 24.285714285714285,
+    "rate": 24,
     "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
     "endUTC": "2026-11-23T14:59:59.000Z"
    }
@@ -244,7 +234,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.8,
    "reviews": 43,
-   "students": 484,
+   "students": 485,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -311,8 +301,8 @@
    "desc": "You use ChatGPT, but…\n\nHave you ever found it difficult to explain why it gives the answers it does?\n\n“I know terms like RAG, agents, and fine-tuning, but I can’t explain them precisely.”\n\n“When I hear LLM-related terms, I don’t know what to say.”\n\n“I’m always vague when explaining concepts in AI meetings.”\n\nThis course was created for people just like you.\n\nIt’s a theory course designed to help you understand LLMs as a “structure,” not just a “tool.”\nRather than teaching you how to use ChatGPT or Gemini, it gives you a framework for explaining why they work the way they do.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
-   "reviews": 46,
-   "students": 249,
+   "reviews": 47,
+   "students": 250,
    "runtimeMin": 91,
    "level": "Beginner",
    "abilities": [
@@ -405,9 +395,44 @@
     "title": "블랙프롬프트데이⚡️ 모든 강의 25% 연장",
     "endUTC": "2026-11-23T14:59:59.000Z"
    }
+  },
+  "345699": {
+   "id": 345699,
+   "slug": "building-computer-vi",
+   "title": "Building Computer Vision AI with Claude Vibe Coding: Practical Image and Video Automation",
+   "desc": "Go beyond Excel and document automation—now let AI handle photos and videos, too! This hands-on advanced course will help you understand the core principles of computer vision, build a working vision AI program through vibe coding with Claude Code, and verify for yourself that the results work as intended.",
+   "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m7ymez3tx7x53v50ss1xbhf5",
+   "star": 0,
+   "reviews": 0,
+   "students": 2,
+   "runtimeMin": 569,
+   "level": "Basic",
+   "abilities": [
+    "The connections among core computer vision principles, from image preprocessing to CNNs, transfer learning, YOLO, segmentation, ViT, VLMs, and multimodal RAG.",
+    "12 hands-on computer vision exercises, including product classification, object counting, background removal, visual inspection, and document image question answering, plus 19 additional applied exercises.",
+    "The experience of turning Jupyter Notebook code into a web app (dashboard) using Claude Code vibe coding",
+    "Explore → Plan → Implement → Verify → Apply: A Five-Step Vibe Coding Workflow and Prompts for Each Stage",
+    "The habit of verifying AI-generated results using benchmark numbers such as accuracy and detection results."
+   ],
+   "categories": [
+    "Computer Vision",
+    "Deep Learning & Machine Learning",
+    "Applied AI Development"
+   ],
+   "isNew": true,
+   "publishedAt": "2026-11-21T10:30:00.000Z",
+   "regular": 99000,
+   "pay": 29700,
+   "isFree": false,
+   "discount": {
+    "rate": 70,
+    "title": "얼리버드 할인",
+    "endUTC": "2026-12-04T14:59:59.001Z"
+   }
   }
  },
  "order": [
+  345699,
   345216,
   343518,
   340427,
@@ -418,14 +443,13 @@
   331791,
   331584,
   331163,
-  331446,
-  331019
+  331446
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 405,
-  "students": 5922,
-  "courseCount": 13
+  "reviews": 406,
+  "students": 5926,
+  "courseCount": 14
  },
  "youtube": {
   "subs": 15300,
@@ -441,6 +465,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "6f31cb468133a3d65ac477df430685d6de51bc81",
- "updatedAt": "2026-11-21T02:29:49.589Z"
+ "hash": "a638678b819e403450d9d20749c62e91aa655a14",
+ "updatedAt": "2026-11-21T11:17:23.007Z"
 }
