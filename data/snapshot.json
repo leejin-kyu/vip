@@ -268,7 +268,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.6,
    "reviews": 16,
-   "students": 154,
+   "students": 155,
    "runtimeMin": 86,
    "level": "Basic",
    "abilities": [
@@ -399,13 +399,13 @@
   "345699": {
    "id": 345699,
    "slug": "building-computer-vi",
-   "title": "Building Computer Vision AI with Claude Vibe Coding: Practical Image and Video Automation",
+   "title": "Computer Vision AI with Claude Vibe Coding: Practical Image and Video Automation",
    "desc": "Go beyond Excel and document automation—now let AI handle photos and videos, too! This hands-on advanced course will help you understand the core principles of computer vision, build a working vision AI program through vibe coding with Claude Code, and verify for yourself that the results work as intended.",
-   "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m7ymez3tx7x53v50ss1xbhf5",
+   "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m80em8dcc978cs92hds0c1mx",
    "star": 0,
    "reviews": 0,
    "students": 6,
-   "runtimeMin": 569,
+   "runtimeMin": 546,
    "level": "Basic",
    "abilities": [
     "The connections among core computer vision principles, from image preprocessing to CNNs, transfer learning, YOLO, segmentation, ViT, VLMs, and multimodal RAG.",
@@ -448,7 +448,7 @@
  "instructor": {
   "rating": 4.5,
   "reviews": 407,
-  "students": 5930,
+  "students": 5931,
   "courseCount": 14
  },
  "youtube": {
@@ -465,6 +465,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "cb82dbb17311959e8298f95b74b92cebdc75ebd2",
- "updatedAt": "2026-11-22T00:23:32.536Z"
+ "hash": "b45d27a8c41d313fec268e7b328a16a8300e4377",
+ "updatedAt": "2026-11-22T08:04:27.557Z"
 }
