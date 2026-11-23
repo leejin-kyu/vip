@@ -60,7 +60,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331163/cover/74cc657a-a8f9-4a78-8edb-0d5fcd4c4c75/331163.png",
    "star": 4.7,
    "reviews": 18,
-   "students": 722,
+   "students": 723,
    "runtimeMin": 52,
    "level": "Basic",
    "abilities": [
@@ -89,14 +89,10 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331446/cover/90f3205d-1a4e-487b-ace0-350b844a12f6/banner1.png",
    "star": 4.7,
    "reviews": 22,
-   "students": 429,
+   "students": 430,
    "runtimeMin": 125,
    "level": "Beginner",
-   "abilities": [
-    "Big Data Analysis Using TEXTOM",
-    "Practical Examples of Big Data Analysis (Word Frequency, Word Cloud)",
-    "Big data analysis through the collection of media reports, such as Naver articles"
-   ],
+   "abilities": [],
    "categories": [
     "Data Analysis"
    ],
@@ -234,7 +230,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/338377/cover/01k1mx7aapgsf6pc41rzcfqq4p",
    "star": 4.8,
    "reviews": 43,
-   "students": 487,
+   "students": 488,
    "runtimeMin": 111,
    "level": "Beginner",
    "abilities": [
@@ -267,7 +263,7 @@
    "desc": "The era when AI simply answered questions is over.  \nNow is the age of LLM Agents that make decisions and take action on their own.  \nThis beginner-friendly course lets you learn the core principles and structure of agents by implementing them firsthand in just 90 minutes of hands-on practice.  \nWith complex theory kept to a minimum and a code-focused approach, you’ll directly experience how AI makes decisions and uses tools.  \nGo beyond prompt engineering and take your first step toward AI automation with us.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.6,
-   "reviews": 16,
+   "reviews": 17,
    "students": 156,
    "runtimeMin": 86,
    "level": "Basic",
@@ -302,7 +298,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
    "reviews": 47,
-   "students": 250,
+   "students": 251,
    "runtimeMin": 91,
    "level": "Beginner",
    "abilities": [
@@ -335,7 +331,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.7,
    "reviews": 23,
-   "students": 172,
+   "students": 173,
    "runtimeMin": 285,
    "level": "Beginner",
    "abilities": [
@@ -429,9 +425,42 @@
     "title": "얼리버드 할인",
     "endUTC": "2026-12-04T14:59:59.001Z"
    }
+  },
+  "345725": {
+   "id": 345725,
+   "slug": "in-house-ai-agents-b",
+   "title": "In-House AI Agents Built with MCP: From Reading Code to Claude Vibe Coding",
+   "desc": "To let AI use internal company data, you need an MCP server. Read through the hands-on notebook code line by line, then use Claude Code to build a working interface and learn how MCP servers, Host integration, internal databases, agents, and human approval all fit together in one workflow.",
+   "thumb": "https://cdn.inflearn.com/public/files/courses/345725/cover/01m837txhxrdnj6yk2qt0v07y9",
+   "star": 0,
+   "reviews": 0,
+   "students": 6,
+   "runtimeMin": 102,
+   "level": "Basic",
+   "abilities": [
+    "Create an MCP server directly in one line above the function (Tool · Resource · Prompt)",
+    "Good Tool Design That Keeps AI from Getting Confused and Host · Client · Server Integration",
+    "How to Set Up a Secure MCP Server in Front of an Internal Database and Validate Text-to-SQL",
+    "Designing Human Approval and Operational Metrics for AI Agents Equipped with MCP Tools"
+   ],
+   "categories": [
+    "AI Agent Development",
+    "Applied AI Development"
+   ],
+   "isNew": true,
+   "publishedAt": "2026-11-23T06:00:00.000Z",
+   "regular": 77000,
+   "pay": 23100,
+   "isFree": false,
+   "discount": {
+    "rate": 68.51851851851852,
+    "title": "얼리버드 할인",
+    "endUTC": "2026-12-06T14:59:59.001Z"
+   }
   }
  },
  "order": [
+  345725,
   345699,
   345216,
   343518,
@@ -442,14 +471,13 @@
   335515,
   331791,
   331584,
-  331163,
-  331446
+  331163
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 407,
-  "students": 5941,
-  "courseCount": 14
+  "reviews": 408,
+  "students": 5952,
+  "courseCount": 15
  },
  "youtube": {
   "subs": 15500,
@@ -465,6 +493,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "de58920a9e6dcfd35e4fc0c78deacd8ee3ffcbfb",
- "updatedAt": "2026-11-23T03:44:44.055Z"
+ "hash": "d670ec5c7380f247d2b6eb0deb9caa4538df9b74",
+ "updatedAt": "2026-11-23T14:50:09.275Z"
 }
