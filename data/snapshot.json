@@ -103,7 +103,7 @@
    "thumb": "https://cdn.inflearn.com/public/courses/331584/cover/1aa0d8ee-cf68-4752-96b3-0638c1a88cfa/230630_ChatGPTwithPython인프런.png",
    "star": 4.5,
    "reviews": 62,
-   "students": 1448,
+   "students": 1449,
    "runtimeMin": 141,
    "level": "Beginner",
    "abilities": [
@@ -244,7 +244,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/339421/cover/01k8x5qh9zb70d4441s479hqt3",
    "star": 4.6,
    "reviews": 17,
-   "students": 156,
+   "students": 157,
    "runtimeMin": 86,
    "level": "Basic",
    "abilities": [
@@ -273,7 +273,7 @@
    "desc": "You use ChatGPT, but…\n\nHave you ever found it difficult to explain why it gives the answers it does?\n\n“I know terms like RAG, agents, and fine-tuning, but I can’t explain them precisely.”\n\n“When I hear LLM-related terms, I don’t know what to say.”\n\n“I’m always vague when explaining concepts in AI meetings.”\n\nThis course was created for people just like you.\n\nIt’s a theory course designed to help you understand LLMs as a “structure,” not just a “tool.”\nRather than teaching you how to use ChatGPT or Gemini, it gives you a framework for explaining why they work the way they do.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/340427/cover/ai/1/aec8de86-14ed-4850-8712-f5270916ba0f.png",
    "star": 4.5,
-   "reviews": 47,
+   "reviews": 48,
    "students": 251,
    "runtimeMin": 91,
    "level": "Beginner",
@@ -364,7 +364,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m80em8dcc978cs92hds0c1mx",
    "star": 0,
    "reviews": 0,
-   "students": 17,
+   "students": 19,
    "runtimeMin": 546,
    "level": "Basic",
    "abilities": [
@@ -398,7 +398,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345725/cover/01m837txhxrdnj6yk2qt0v07y9",
    "star": 0,
    "reviews": 0,
-   "students": 10,
+   "students": 11,
    "runtimeMin": 102,
    "level": "Basic",
    "abilities": [
@@ -439,8 +439,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 410,
-  "students": 5964,
+  "reviews": 412,
+  "students": 5969,
   "courseCount": 15
  },
  "youtube": {
@@ -457,6 +457,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "d96fe03350364e32a7ae2b69c62b6368a57f79c4",
- "updatedAt": "2026-11-25T05:28:14.560Z"
+ "hash": "d3f9f8be3d41d67a251c8795247482774a585ee2",
+ "updatedAt": "2026-11-25T17:21:10.096Z"
 }
