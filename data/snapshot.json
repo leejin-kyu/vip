@@ -364,7 +364,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m80em8dcc978cs92hds0c1mx",
    "star": 0,
    "reviews": 0,
-   "students": 21,
+   "students": 22,
    "runtimeMin": 546,
    "level": "Basic",
    "abilities": [
@@ -393,12 +393,12 @@
   "345725": {
    "id": 345725,
    "slug": "in-house-ai-agents-b",
-   "title": "In-House AI Agents Built with MCP: From Reading Code to Claude Vibe Coding",
+   "title": "MCP in Practice: Building an In-House AI Agent with Claude Vibe Coding",
    "desc": "To let AI use internal company data, you need an MCP server. Read through the hands-on notebook code line by line, then use Claude Code to build a working interface and learn how MCP servers, Host integration, internal databases, agents, and human approval all fit together in one workflow.",
    "thumb": "https://cdn.inflearn.com/public/files/courses/345725/cover/01m837txhxrdnj6yk2qt0v07y9",
    "star": 0,
    "reviews": 0,
-   "students": 11,
+   "students": 12,
    "runtimeMin": 102,
    "level": "Basic",
    "abilities": [
@@ -439,8 +439,8 @@
  ],
  "instructor": {
   "rating": 4.5,
-  "reviews": 412,
-  "students": 5975,
+  "reviews": 413,
+  "students": 5977,
   "courseCount": 15
  },
  "youtube": {
@@ -457,6 +457,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "89ec35cf734511be0a5b248cdb6ad707127e0001",
- "updatedAt": "2026-11-26T11:00:04.667Z"
+ "hash": "f1418548be140084fcd6400d9828527ddadb5119",
+ "updatedAt": "2026-11-26T20:14:05.548Z"
 }
