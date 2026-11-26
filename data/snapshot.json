@@ -364,7 +364,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m80em8dcc978cs92hds0c1mx",
    "star": 0,
    "reviews": 0,
-   "students": 19,
+   "students": 20,
    "runtimeMin": 546,
    "level": "Basic",
    "abilities": [
@@ -440,7 +440,7 @@
  "instructor": {
   "rating": 4.5,
   "reviews": 412,
-  "students": 5969,
+  "students": 5970,
   "courseCount": 15
  },
  "youtube": {
@@ -457,6 +457,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "d3f9f8be3d41d67a251c8795247482774a585ee2",
- "updatedAt": "2026-11-25T17:21:10.096Z"
+ "hash": "c3f098c2110f67750da93bd9fc4d9a934875ed36",
+ "updatedAt": "2026-11-26T01:49:26.309Z"
 }
