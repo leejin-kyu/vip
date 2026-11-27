@@ -303,7 +303,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/343518/cover/01m2s8hkz67w4e67yhz19psrrk",
    "star": 4.7,
    "reviews": 25,
-   "students": 175,
+   "students": 176,
    "runtimeMin": 285,
    "level": "Beginner",
    "abilities": [
@@ -364,7 +364,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345699/cover/01m80em8dcc978cs92hds0c1mx",
    "star": 0,
    "reviews": 0,
-   "students": 22,
+   "students": 25,
    "runtimeMin": 546,
    "level": "Basic",
    "abilities": [
@@ -398,7 +398,7 @@
    "thumb": "https://cdn.inflearn.com/public/files/courses/345725/cover/01m837txhxrdnj6yk2qt0v07y9",
    "star": 0,
    "reviews": 0,
-   "students": 12,
+   "students": 15,
    "runtimeMin": 102,
    "level": "Basic",
    "abilities": [
@@ -440,7 +440,7 @@
  "instructor": {
   "rating": 4.5,
   "reviews": 413,
-  "students": 5977,
+  "students": 5984,
   "courseCount": 15
  },
  "youtube": {
@@ -457,6 +457,6 @@
    "HBLrAAlqdcE": 33784
   }
  },
- "hash": "f1418548be140084fcd6400d9828527ddadb5119",
- "updatedAt": "2026-11-26T20:14:05.548Z"
+ "hash": "6c8c3185f04f4251d0755c5ec919e519435d4735",
+ "updatedAt": "2026-11-27T12:39:19.219Z"
 }
